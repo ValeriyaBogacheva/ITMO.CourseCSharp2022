@@ -1,0 +1,6 @@
+C:\Users\Владислав\Downloads\CSharpLabs\COLORTOKENISER\bin\Debug\ColorTokeniser.exe
+C:\Users\Владислав\Downloads\CSharpLabs\COLORTOKENISER\bin\Debug\ColorTokeniser.pdb
+C:\Users\Владислав\Downloads\CSharpLabs\COLORTOKENISER\obj\Debug\ColorTokeniser.csproj.AssemblyReference.cache
+C:\Users\Владислав\Downloads\CSharpLabs\COLORTOKENISER\obj\Debug\ColorTokeniser.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Downloads\CSharpLabs\COLORTOKENISER\obj\Debug\ColorTokeniser.exe
+C:\Users\Владислав\Downloads\CSharpLabs\COLORTOKENISER\obj\Debug\ColorTokeniser.pdb
