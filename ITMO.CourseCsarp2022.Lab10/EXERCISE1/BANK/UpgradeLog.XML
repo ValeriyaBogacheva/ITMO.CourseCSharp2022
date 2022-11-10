@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BANK">
+</Property><Property Name="Solution File" Value="C:\1\compile_all\Lab11\EXERCISE1\STARTER\BANK\BANK.sln">
+</Property><Property Name="Date" Value="16 июня 2014 г.">
+</Property><Property Name="Time" Value="15:48">
+</Property></Properties><Event ErrorLevel="0" Project="Bank" Source="Bank.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Bank" Source="Bank.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BANK.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BANK.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Bank" Source="Bank.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
